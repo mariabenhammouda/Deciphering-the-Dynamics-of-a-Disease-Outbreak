@@ -18,6 +18,7 @@ To simplify things, we modeled our zombie apocalypse based on a few simple behav
 * If a zombie is close to **multiple humans**, then the zombie would chase after the **closest** human.
 * If human and zombie are **very close** to each other, then they will **fight**. Sometimes the human wins the fight, which results in killing the zombie. Sometimes the zombie wins the fight, which results in turning the human into a zombie.
 
+https://github.com/mariabenhammouda/Disease-Outbreaks-Analysis-via-Zombie-Apocalypse/assets/102983688/a797bfbb-e5b9-4fb0-8289-b08908512148
 
 ### Feel free to modify the parameters on `zombieBasic.m`:
 Parameters | Descriptions
