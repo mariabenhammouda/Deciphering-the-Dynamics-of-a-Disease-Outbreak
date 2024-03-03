@@ -1,6 +1,5 @@
 # Simulation and Analysis of Disease Outbreaks via Zombie Apocalypse: A MATLAB Approach
-### The zombie master code can be found here: https://drive.google.com/file/d/1HkmI5mP4VjGg3GI5ppjhNd2JW3RxLETL/view?usp=sharing
-### Attached is the comprehensive PDF detailing the Mathematical Modeling and Analysis of Disease Outbreak Dynamics During a Zombie Apocalypse, along with the corresponding parameter settings.
+#### Attached is the comprehensive PDF detailing the Mathematical Modeling and Analysis of Disease Outbreak Dynamics During a Zombie Apocalypse, along with the corresponding parameter settings.
 
 This is a more optimized version (**created by Kin Fai Franco Chan and Zakaria Achouri**) of the original MATLAB zombie apocalypse group project (https://github.com/UoMLegends/Zombie). This version uses vectorization for movement increment, uses `knnsearch` for finding the nearest enemy, and preallocation for memory efficiency.
 
